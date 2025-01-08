@@ -23,8 +23,8 @@ Soy **Ingeniero en Sistemas Computacionales** con experiencia en desarrollo de s
 ### 🌟 Proyectos Destacados
 - **[Sistema de Gestión de Aulas](https://github.com/Cova97/SistemaDeGestionDeAulas):** API para gestionar aulas de manera eficiente.
 - **[Sistema de Préstamo de Materiales](https://github.com/Cova97/SistemaDePrestamoDeMateriales):** Aplicación web para gestionar préstamos de laboratorio usando Firebase.
-- **[Sistema de Detección de Armas](https://github.com/Cova97/SistemaDeDeteccionDeArmas):** Proyecto basado en inteligencia artificial para detección en tiempo real con YOLO.
-- **[Sistema de Detección de Síntomas de Depresión](https://github.com/Cova97/SintomasDeDepresion):** Solución basada en IA con OpenAI para identificar síntomas de depresión.
+- **[Sistema de Detección de Armas](https://github.com/Cova97/spearhead2):** Proyecto basado en inteligencia artificial para detección en tiempo real con YOLO.
+- **[Sistema de Detección de Síntomas de Depresión](https://github.com/Cova97/Mood-Guard-App):** Solución basada en IA con OpenAI para identificar síntomas de depresión.
 - **[EscribIA](https://github.com/Cova97/EscribIA):** Asistente para corregir y evaluar textos con IA.
 - **[Chilango Chat](https://github.com/Cova97/ChilangoChat):** Bot educativo que responde como un auténtico chilango.
 
