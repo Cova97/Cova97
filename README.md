@@ -60,6 +60,7 @@ Me enfoco en entregar software **mantenible, escalable y orientado a resolver pr
     <td>
       <img src="https://img.shields.io/badge/Python-0B2545?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/JavaScript-0B2545?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+      <img src="https://img.shields.io/badge/TypeScript-0B2545?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/SQL-0B2545?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
     </td>
   </tr>
@@ -77,6 +78,7 @@ Me enfoco en entregar software **mantenible, escalable y orientado a resolver pr
     <td>
       <img src="https://img.shields.io/badge/Firebase-1D4E89?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
       <img src="https://img.shields.io/badge/MongoDB-1D4E89?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/Prisma_ORM-1D4E89?style=flat-square&logo=prisma&logoColor=white" alt="Prisma ORM">
     </td>
   </tr>
   <tr>
@@ -84,7 +86,9 @@ Me enfoco en entregar software **mantenible, escalable y orientado a resolver pr
     <td>
       <img src="https://img.shields.io/badge/AWS-1D6FB8?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
       <img src="https://img.shields.io/badge/Azure-1D6FB8?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+      <img src="https://img.shields.io/badge/Cloudflare-1D6FB8?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
       <img src="https://img.shields.io/badge/Docker-1D6FB8?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-1D6FB8?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD Pipelines">
     </td>
   </tr>
   <tr>
