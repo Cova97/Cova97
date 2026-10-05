@@ -106,8 +106,8 @@ Me enfoco en entregar software **mantenible, escalable y orientado a resolver pr
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cova97&show_icons=true&hide_border=true&bg_color=00000000&title_color=1D6FB8&icon_color=1D6FB8&text_color=8B949E" alt="Estadísticas de GitHub" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cova97&layout=compact&hide_border=true&bg_color=00000000&title_color=1D6FB8&text_color=8B949E" alt="Lenguajes más usados" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cova97&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=1D6FB8&icon_color=1D6FB8&text_color=8B949E" alt="Estadísticas de GitHub" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cova97&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=1D6FB8&text_color=8B949E" alt="Lenguajes más usados" height="165">
 </p>
 
 <br>
